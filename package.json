@@ -2,7 +2,6 @@
   "name": "gimme",
   "version": "0.1.0",
   "description": "Generates a release name",
-  "main": "index.js",
   "bin": {
     "gimme": "./bin/gimme"
   },
@@ -13,10 +12,13 @@
   "author": "Wilfred Springer",
   "license": "ISC",
   "devDependencies": {
-    "coffee-script": "^1.9.3",
-    "project-name-generator": "^2.1.1"
+    "coffee-script": "^1.9.3"
   },
   "dependencies": {
     "project-name-generator": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wspringer/gimme"
   }
 }
