@@ -3,10 +3,10 @@
 Generate release names. 
 
 ```bash
-npm install -g gimme
+npm install -g gimme-names
 ```
 
 ```bash
-$ gimme 
+$ gimme-names
 exuberant-stranger
 ```

@@ -1,9 +1,9 @@
 {
-  "name": "gimme",
+  "name": "gimme-names",
   "version": "0.1.0",
   "description": "Generates a release name",
   "bin": {
-    "gimme": "./bin/gimme"
+    "gimme-names": "./bin/gimme"
   },
   "keywords": [
     "release",
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wspringer/gimme"
+    "url": "https://github.com/wspringer/gimme-names"
   }
 }
